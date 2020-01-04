@@ -1,2 +1,2 @@
 # cosmoport
-test task for JavaRush inteship
+test task for JavaRush intership
